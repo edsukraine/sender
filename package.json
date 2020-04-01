@@ -1,0 +1,19 @@
+{
+  "name": "edsukraine-sender",
+  "version": "1.0.0",
+  "description": "Library for sending requests on servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edsukraine/sender.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edsukraine/sender/issues"
+  },
+  "homepage": "https://github.com/edsukraine/sender#readme"
+}
