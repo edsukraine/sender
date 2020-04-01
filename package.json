@@ -1,6 +1,6 @@
 {
   "name": "edsukraine-sender",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Library for sending requests on servers",
   "main": "index.js",
   "scripts": {
